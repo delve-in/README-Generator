@@ -1,10 +1,10 @@
-# readme generator
+# README GENERATOR
 
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
 
-  description description
+  This app is used to create a professional Readme file with inputs from user.
 
   ## Table of Contents
 
@@ -22,21 +22,26 @@
 
   ## Installation
 
-  To install the necessary dependencies, run the followinf commans:
+  To install the necessary dependencies, run the following command:
 
   npm i
 
   ## Usage 
 
-  nothing
+  
+walkthrough video
+
+  ## Credits
+
+  N/A
 
   ## License
 
-  This project is licensed under the APACHE 2.0 license.
+  This project is licensed under the MIT license.
 
   ## Contributing
 
-  free 
+  Anyone is free to contribute
 
   ## Tests
 
@@ -46,5 +51,4 @@
 
   ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at d@g.com. You can find more of my work at [delve-in](http://github.com/delve-in/).
-
+If you have any questions about the repo, open an issue or contact me directly at write2delvin@gmail.com. You can find more of my work at [delve-in](http://github.com/delve-in/).
