@@ -1,10 +1,10 @@
-# a
+# readme generator
 
-  
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Description
 
-  a
+  description description
 
   ## Table of Contents
 
@@ -22,29 +22,29 @@
 
   ## Installation
 
-  To install the necessary dependencies, run the following command:
+  To install the necessary dependencies, run the followinf commans:
 
-  a
+  npm i
 
   ## Usage 
 
-  a
+  nothing
 
   ## License
 
-  This project is licensed under the alicense.
+  This project is licensed under the APACHE 2.0 license.
 
   ## Contributing
 
-  a
+  free 
 
   ## Tests
 
   To run tests, run the following command:
 
-  a
+  npm test
 
   ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at a. You can find more of my work at [a](http://github.com/a/).
+If you have any questions about the repo, open an issue or contact me directly at d@g.com. You can find more of my work at [delve-in](http://github.com/delve-in/).
 
