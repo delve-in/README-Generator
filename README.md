@@ -11,6 +11,10 @@
   * [Installation](#installation)
 
   * [Usage](#usage)
+
+  * [Walkthrough](#walkthrough)
+
+  * [Credits](#credits)
   
   * [License](#license)
 
@@ -28,8 +32,27 @@
 
   ## Usage 
 
-  
-walkthrough video
+  Open the main folder in integrated terminal and install the dependencies once done run the index.js file using node index.js to run the project.
+
+![Alt text](./images/image-1.png)
+
+  Once you run index.js a series of questions will be asked answer accordingly.
+
+  ![Alt text](./images/image.png)
+
+  Once done "Successfully wrote to README.md" message will be shown in terminal.
+
+  ![Alt text](./images/image2.png)
+
+  The generated readme file can be accessed from main folder.
+
+  ![Alt text](./images/image3.png)
+
+  ## Walkthrough
+
+  Find below walkthrough video link:
+
+  https://drive.google.com/file/d/1l3phDjNxC_ffF0klcm7hct82l0q4ZXV_/view?usp=sharing
 
   ## Credits
 
